@@ -1,40 +1,12 @@
 {
-  "tokens": [
-    {
-      "token": "8122617536:AAHRGT5qwZe0h7B2n_vKuwELcK48ArG0dsE",
-      "username": "@jiannnnndddnnnnbbnndnn_bot",
-      "password": "Jianoffc",
-      "active": true,
-      "owner": "unknown"
-    },
-    {
-      "token": "8185475905:AAGD-Ertk1apOhF40kP7nOpbPkVc6zOTe9s",
-      "active": true,
-      "owner": "unknown"
-    },
-    {
-      "token": "8173673546:AAG8QO3ZLhEP741JSTncPJsV7tMWdnucvHo",
-      "owner": "Jian",
-      "username": "cpanelsal_bot",
-      "active": true
-    },
-    {
-      "token": "8113805233:AAGKN1YSNLYmefsQ13n_1dOEywXtln3atM4",
-      "owner": "riview",
-      "username": "khususikiw_bot",
-      "active": true
-    },
-    {
-      "token": "7925956687:AAHu7wi6wOU_bXNq3jxYlMk5EyPIb1uMXkM",
-      "owner": "riview",
-      "username": "rakaaaganteng_bot",
-      "active": true
-    },
-    {
-      "token": "7838407712:AAHxE-IpHWJ04PWegJOa7pozQAGt7FzLIcI",
-      "owner": "verse",
-      "username": "Emperorinvictus_bot",
-      "active": true
-    }
-  ]
+  "tokens": [],
+  "users": {
+    "res": [],
+    "pt": [],
+    "own": [],
+    "svip": [],
+    "dev": [],
+    "mod": [],
+    "ceo": []
+  }
 }
