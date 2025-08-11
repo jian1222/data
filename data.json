@@ -1,21 +1,10 @@
 {
-  "tokens": [],
-  "users": {
-    "res": [],
-    "pt": [],
-    "own": [
-      6821193890
-    ],
-    "svip": [],
-    "dev": [
-      6821193890,
-      7808981311,
-      6848660199,
-      8158931853
-    ],
-    "mod": [
-      8042227227
-    ],
-    "ceo": []
-  }
+  "tokens": [
+    {
+      "token": "7504081645:AAHkuUeGEopMpQeiS4WDWjAVlQH0_6qfq1Q",
+      "owner": "ARUI",
+      "username": "Alxaruii_bot",
+      "active": true
+    }
+  ]
 }
