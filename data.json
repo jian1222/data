@@ -1,10 +1,12 @@
 {
-  "tokens": [
-    {
-      "token": "8040613404:AAGwGmDEB4cOBa6hLLK849maCYSZfHHFKSA",
-      "owner": "belz",
-      "username": "ushevebot",
-      "active": false
-    }
-  ]
+  "tokens": [],
+  "users": {
+    "res": [],
+    "pt": [],
+    "own": [],
+    "svip": [],
+    "dev": [],
+    "mod": [],
+    "ceo": []
+  }
 }
