@@ -1,10 +1,12 @@
 {
-  "tokens": [
-    {
-      "token": "7504081645:AAHkuUeGEopMpQeiS4WDWjAVlQH0_6qfq1Q",
-      "owner": "ARUI",
-      "username": "Alxaruii_bot",
-      "active": true
-    }
-  ]
+  "tokens": [],
+  "users": {
+    "res": [],
+    "pt": [],
+    "own": [],
+    "svip": [],
+    "dev": [],
+    "mod": [],
+    "ceo": []
+  }
 }
