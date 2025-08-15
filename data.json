@@ -1,19 +1,10 @@
 {
-  "tokens": [],
-  "users": {
-    "res": [
-      7282922153,
-      6722341938,
-      7731324905,
-      7669479762
-    ],
-    "pt": [],
-    "own": [],
-    "svip": [],
-    "dev": [
-      6821193890
-    ],
-    "mod": [],
-    "ceo": []
-  }
+  "tokens": [
+    {
+      "token": "8301617914:AAG2mUmKdxkZvEQq9jWcU-OrMZs614nZ0UE",
+      "owner": "gerzx",
+      "username": "XMDTESTING_BOT",
+      "active": true
+    }
+  ]
 }
