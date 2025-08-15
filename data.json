@@ -1,22 +1,10 @@
 {
   "tokens": [
-    "8040613404:AAGwGmDEB4cOBa6hLLK849maCYSZfHHFKSA"
-  ],
-  "users": {
-    "res": [
-      6821193890,
-      8339374497,
-      1673286607
-    ],
-    "pt": [],
-    "own": [],
-    "svip": [],
-    "dev": [
-      6821193890
-    ],
-    "mod": [
-      6813463059
-    ],
-    "ceo": []
-  }
+    {
+      "token": "8040613404:AAGwGmDEB4cOBa6hLLK849maCYSZfHHFKSA",
+      "owner": "belz",
+      "username": "ushevebot",
+      "active": true
+    }
+  ]
 }
